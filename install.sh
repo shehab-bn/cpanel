@@ -56,7 +56,7 @@ EOF
 #Remove all source 
 
 cd /usr/local/src/
-rm -rf syslint_*
+rm -rf install_*
 echo -e "$GREEN*************************************************************$RESET"
 echo -e "          Installation is completed "
 echo -e "$GREEN*************************************************************$RESET"
